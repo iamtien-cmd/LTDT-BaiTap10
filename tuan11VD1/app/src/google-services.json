@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "603095829413",
+    "project_id": "videoshort-bd495",
+    "storage_bucket": "videoshort-bd495.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603095829413:android:81ed843d1a459310f9364c",
+        "android_client_info": {
+          "package_name": "vn.iostar.tuan11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqw2L_HulQVPGB_cLtAhbarXIBbzaQZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
